@@ -1,0 +1,5 @@
+{
+  "version": "2.3.9",
+  "notes": "Ceitotify 2.3.9: vuelven a bloquearse los anuncios (Spotify se actualizaba y dejaba Ceitotify apagado) y desde ahora las versiones nuevas se instalan solas al cerrar Spotify.",
+  "url": "Se instala sola al cerrar Spotify, o desde CeitoTweaks."
+}
